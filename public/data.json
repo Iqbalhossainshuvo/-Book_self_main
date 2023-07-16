@@ -1,0 +1,203 @@
+
+[
+  {
+    "email": "user1@example.com",
+    "title": "The Haunted Forest",
+    "author": "Smith Johnson",
+    "genre": "Scary Story",
+    "publicationDate": "2022-09-20",
+    "image": "https://i.ibb.co/GvM3LvB/1.jpg",
+    "reviews": [],
+    "description": "A spine-chilling tale set in a haunted forest. Brace yourself for an eerie adventure!"
+  },
+  {
+    "email": "user2@example.com",
+    "title": "The House of Shadows",
+    "author": "Emily Davis",
+    "genre": "Scary Story",
+    "publicationDate": "2023-03-10",
+    "image": "https://i.ibb.co/0Ykf0Nt/A-Curse-for-True-Love.webp",
+    "reviews": [],
+    "description": "An atmospheric tale of a cursed house where dark secrets lurk in the shadows."
+  },
+  {
+    "email": "user3@example.com",
+    "title": "Midnight Madness",
+    "author": "Sarah Thompson",
+    "genre": "Scary Story",
+    "publicationDate": "2023-06-05",
+    "image": "https://i.ibb.co/vJdCCWc/A-game-of-gods.webp",
+    "reviews": [],
+    "description": "Prepare to be terrified as you delve into the darkness of midnight madness!"
+  },
+  {
+    "email": "user4@example.com",
+    "title": "Whispers in the Attic",
+    "author": "James Anderson",
+    "genre": "Mystery",
+    "publicationDate": "2021-12-15",
+    "image": "https://i.ibb.co/BBFMcjg/A-touch.webp",
+    "reviews": [],
+    "description": "A gripping mystery surrounding the eerie whispers heard in an old attic."
+  },
+  {
+    "email": "user5@example.com",
+    "title": "The Ghostly Manor",
+    "author": "Jennifer Lee",
+    "genre": "Horror",
+    "publicationDate": "2023-01-30",
+    "image": "https://i.ibb.co/PGmLqPv/Black-Book.jpg",
+    "reviews": [],
+    "description": "An encounter with malevolent spirits in a haunted manor leads to terrifying consequences."
+  },
+  {
+    "email": "user6@example.com",
+    "title": "Cursed Doll",
+    "author": "Michael Roberts",
+    "genre": "Horror",
+    "publicationDate": "2023-07-02",
+    "image": "https://i.ibb.co/RgsDXQp/Fouth-Wing.webp",
+    "reviews": [],
+    "description": "A cursed doll brings unspeakable horrors into the lives of its owners."
+  },
+  {
+    "email": "user7@example.com",
+    "title": "The Abandoned Asylum",
+    "author": "Rachel Williams",
+    "genre": "Scary Story",
+    "publicationDate": "2020-04-18",
+    "image": "https://i.ibb.co/C5dSQch/house-of-flame.webp",
+    "reviews": [],
+    "description": "A spine-chilling account of the haunting incidents inside an abandoned asylum."
+  },
+  {
+    "email": "user8@example.com",
+    "title": "House on Haunted Hill",
+    "author": "Thomas White",
+    "genre": "Horror",
+    "publicationDate": "2019-02-05",
+    "image": "https://i.ibb.co/x3KdgH5/House-of-Sky.webp",
+    "reviews": [],
+    "description": "A group of individuals spends the night in a haunted mansion, only to confront their darkest fears."
+  },
+  {
+    "email": "user9@example.com",
+    "title": "The Witching Hour",
+    "author": "Isabella Clark",
+    "genre": "Fantasy Horror",
+    "publicationDate": "2017-07-10",
+    "image": "https://i.ibb.co/BtXzWGv/Hunting-Adeline.webp",
+    "reviews": [],
+    "description": "When the clock strikes midnight, dark forces come to life in this bewitching tale."
+  },
+  {
+    "email": "user10@example.com",
+    "title": "The Phantom's Curse",
+    "author": "Robert Turner",
+    "genre": "Mystery",
+    "publicationDate": "2022-11-22",
+    "image": "https://i.ibb.co/1zJQxnb/Iron-Flame.webp",
+    "reviews": [],
+    "description": "A mysterious curse haunts an old opera house, drawing the attention of an intrepid detective."
+  },
+  {
+    "email": "user11@example.com",
+    "title": "Beyond the Grave",
+    "author": "Sophie Mitchell",
+    "genre": "Supernatural",
+    "publicationDate": "2015-06-15",
+    "image": "https://i.ibb.co/CtKFQNG/King-of-Paride.webp",
+    "reviews": [],
+    "description": "The boundary between life and death blurs in this eerie tale of the afterlife."
+  },
+  {
+    "email": "user12@example.com",
+    "title": "The Haunting of Hollow Hill",
+    "author": "William Baker",
+    "genre": "Horror",
+    "publicationDate": "2014-05-12",
+    "image": "https://i.ibb.co/LxWjY69/Leigh-Howard.webp",
+    "reviews": [],
+    "description": "A group of friends discovers the chilling secrets hidden within the haunted Hollow Hill."
+  },
+  {
+    "email": "user13@example.com",
+    "title": "Nightmare at 13th Street",
+    "author": "Emma Turner",
+    "genre": "Scary Story",
+    "publicationDate": "2011-03-28",
+    "image": "https://i.ibb.co/tsy6tyL/Light-Bringer.webp",
+    "reviews": [],
+    "description": "An unforgettable nightmare unfolds as a series of mysterious events plague 13th Street."
+  },
+  {
+    "email": "user14@example.com",
+    "title": "The Possession",
+    "author": "Mark Davis",
+    "genre": "Horror",
+    "publicationDate": "2023-07-05",
+    "image": "https://i.ibb.co/XDrw1ph/Obsessed.webp",
+    "reviews": [],
+    "description": "An ancient evil possesses an innocent soul, unleashing chaos and terror."
+  },
+  {
+    "email": "user15@example.com",
+    "title": "The Forgotten Crypt",
+    "author": "Olivia Roberts",
+    "genre": "Mystery",
+    "publicationDate": "2022-10-15",
+    "image": "https://i.ibb.co/Z25KyKB/Power-to-the-middle.webp",
+    "reviews": [],
+    "description": "A buried secret in an ancient crypt resurfaces, bringing danger and intrigue."
+  },
+  {
+    "email": "user16@example.com",
+    "title": "The Haunting Echoes",
+    "author": "Daniel Walker",
+    "genre": "Supernatural",
+    "publicationDate": "2023-06-20",
+    "image": "https://i.ibb.co/2jZTm22/the-Housemaid.webp",
+    "reviews": [],
+    "description": "Echoes from the past haunt the present in this chilling tale of the paranormal."
+  },
+  {
+    "email": "user17@example.com",
+    "title": "The Dark Moon",
+    "author": "Victoria Anderson",
+    "genre": "Horror",
+    "publicationDate": "2023-02-28",
+    "image": "https://i.ibb.co/HDV1Hy1/The-ocnvenant-of-water.webp",
+    "reviews": [],
+    "description": "A series of bizarre and horrifying events unfold under the dark moon's watchful gaze."
+  },
+  {
+    "email": "user18@example.com",
+    "title": "Haunted Waters",
+    "author": "Christopher Green",
+    "genre": "Scary Story",
+    "publicationDate": "2023-04-08",
+    "image": "https://i.ibb.co/KVxF00P/The-Stars-are-Dying-Nytefall-Book.webp",
+    "reviews": [],
+    "description": "An eerie encounter with the supernatural ensues on a ghost ship adrift in haunted waters."
+  },
+  {
+    "email": "user19@example.com",
+    "title": "The Witch's Curse",
+    "author": "Jennifer Martinez",
+    "genre": "Fantasy Horror",
+    "publicationDate": "2022-12-10",
+    "image": "https://i.ibb.co/sPyLksM/The-woman-in-me.webp",
+    "reviews": [],
+    "description": "A young witch battles to break a powerful curse that threatens her and her village."
+  },
+  {
+    "email": "user20@example.com",
+    "title": "House of Mirrors",
+    "author": "Richard Lewis",
+    "genre": "Horror",
+    "publicationDate": "2023-05-02",
+    "image": "https://i.ibb.co/MBL8bws/too-Late.webp",
+    "reviews": [],
+    "description": "Within the walls of the House of Mirrors, reality twists into a nightmarish labyrinth."
+  }
+]
